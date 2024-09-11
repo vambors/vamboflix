@@ -1,0 +1,27 @@
+body  { 
+   
+    color: white;
+    background: rgb(0, 0, 0);
+}
+
+header{
+    border-bottom: solid 5px blue;
+padding: 10px;
+font-size: 32px;
+color : blue;
+}
+
+section{
+background: rgb(68, 67, 67);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
+
+.CHAMADA-TEXTO{
+
+    margin-right: 5%;
+
+}
